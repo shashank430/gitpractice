@@ -1,1 +1,8 @@
 Practice git file
+
+Second cas: After first commit
+added this line, it should be in working directory now.
+
+
+third case " new line added
+
